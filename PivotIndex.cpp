@@ -26,7 +26,6 @@ public:
             if(prefix[i-1]==postfix[i+1])
                 return i;
         
-        
         return -1;        
              
     }
