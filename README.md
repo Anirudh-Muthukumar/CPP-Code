@@ -1,2 +1,2 @@
 # CPP-Code
-A gist of all my C++ and C work.
+A gist of all my C/C++ work.
