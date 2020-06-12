@@ -1,0 +1,4 @@
+# Files to ignore
+*.exe
+*.txt
+.DS_Store
